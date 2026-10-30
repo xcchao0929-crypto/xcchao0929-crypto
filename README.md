@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-10-29（10:00）**
-> Top 1 `obra/superpowers`（307,496 ★）· 飙升最快 `wheresryan22/anatomy`（建仓 21 天 22,145 ★）
-> 今日新见：`paperclipai/paperclip` 108,313 ★ · `calesthio/OpenMontage` 72,748 ★（agentic 视频生产）
+> **最新一期 · 2026-10-30（10:00）**
+> Top 1 `obra/superpowers`（308,609 ★，24h +1,113）· 飙升最快 `google/elephant-goldfish-model`（+24.31%，Google 规格驱动开发 skill）
+> 榜单 Top 10 连续两日零变动 · `kajisho5/ffmpeg-skill` +10.73%
 <!-- LATEST:END -->
 
 ---
