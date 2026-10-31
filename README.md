@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-10-30（10:00）**
-> Top 1 `obra/superpowers`（308,609 ★，24h +1,113）· 飙升最快 `google/elephant-goldfish-model`（+24.31%，Google 规格驱动开发 skill）
-> 榜单 Top 10 连续两日零变动 · `kajisho5/ffmpeg-skill` +10.73%
+> **最新一期 · 2026-10-31（10:00）**
+> Top 1 `obra/superpowers`（309,464 ★，24h +855）· 单日冠军 `thedotmack/claude-mem`（**+1,468**）
+> 涨幅第一 `google/elephant-goldfish-model` +10.97%（两日累计 +38%）· Top 10 连续三日名单不变
 <!-- LATEST:END -->
 
 ---
