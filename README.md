@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-02（10:00）**
-> Top 1 `obra/superpowers`（310,655 ★）· 增量冠军 `thedotmack/claude-mem`（**+1,069**，四连冠）
-> 下个换位点：`claude-mem` 距 #8 `paperclip` 仅 **560 星** · `elephant-goldfish` 五日 **+87.2%**
+> **最新一期 · 2026-11-03（10:00）**
+> Top 1 `obra/superpowers`（311,269 ★）· 增量冠军 `google/elephant-goldfish-model`（**+1,654**，六日 **+121.6%** 破万）
+> 预测兑现：`claude-mem` ↑#8 反超 `paperclip`（五连冠）· 下个换位点约 **11-05**
 <!-- LATEST:END -->
 
 ---
