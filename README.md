@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-04（10:00）**
-> Top 1 `obra/superpowers`（311,894 ★）· 增量冠军 `mattpocock/skills`（**+1,247**，终结 claude-mem 五连冠）
-> ⚠️ 榜首差距仅 **376 星**，明日或首次易主 · `elephant-goldfish` 七日 **+135.3%**
+> **最新一期 · 2026-11-05（10:00）**
+> 🔴 榜首易主（八日来首次）：`mattpocock/skills` **313,382 ★**（+1,864，刷新单日纪录）反超 `obra/superpowers` 907 星
+> 预测复盘：换位准确、elephant「两天一爆」判错（+516，五日最弱）· `elephant` 八日 **+146.0%**
 <!-- LATEST:END -->
 
 ---
