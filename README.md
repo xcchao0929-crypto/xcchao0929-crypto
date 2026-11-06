@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-05（10:00）**
-> 🔴 榜首易主（八日来首次）：`mattpocock/skills` **313,382 ★**（+1,864，刷新单日纪录）反超 `obra/superpowers` 907 星
-> 预测复盘：换位准确、elephant「两天一爆」判错（+516，五日最弱）· `elephant` 八日 **+146.0%**
+> **最新一期 · 2026-11-06（10:00）· 口径修正版**
+> Top 1 `mattpocock/skills` **315,313 ★**（+1,931）· 补入 3 个漏掉的大仓库：`karpathy-skills` 229.9k、`ui-ux-pro-max-skill` 145.7k、`graphify` 143.0k
+> 🔧 修正发现查询漏洞 · 找到 `kepano/obsidian-skills` **50.8k**（此前误判「无 Obsidian skill」）
 <!-- LATEST:END -->
 
 ---
