@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-06（10:00）· 口径修正版**
-> Top 1 `mattpocock/skills` **315,313 ★**（+1,931）· 补入 3 个漏掉的大仓库：`karpathy-skills` 229.9k、`ui-ux-pro-max-skill` 145.7k、`graphify` 143.0k
-> 🔧 修正发现查询漏洞 · 找到 `kepano/obsidian-skills` **50.8k**（此前误判「无 Obsidian skill」）
+> **最新一期 · 2026-11-07（10:00）**
+> Top 1 `mattpocock/skills` **316,761 ★**（+1,448，连续四日千星，领先 3,131）· Top 10 名单稳定
+> ✅ 修正后查询首次完整运行，无第四个漏网 · 新见 `pbakaus/impeccable` 104.8k · `elephant-goldfish` 十日 **+172.5%**
 <!-- LATEST:END -->
 
 ---
