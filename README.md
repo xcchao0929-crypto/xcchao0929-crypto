@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-07（10:00）**
-> Top 1 `mattpocock/skills` **316,761 ★**（+1,448，连续四日千星，领先 3,131）· Top 10 名单稳定
-> ✅ 修正后查询首次完整运行，无第四个漏网 · 新见 `pbakaus/impeccable` 104.8k · `elephant-goldfish` 十日 **+172.5%**
+> **最新一期 · 2026-11-08（10:00）**
+> Top 1 `mattpocock/skills` **317,758 ★**（+997）· 今日绝对增量第一 `elephant-goldfish` **+858**（十一日 **+190.4%**）
+> 新挑战者 `pbakaus/impeccable` 105,573（+740）· 飙升榜 6 个仓库零增长（疑周日效应）· 连续十一日无断档
 <!-- LATEST:END -->
 
 ---
