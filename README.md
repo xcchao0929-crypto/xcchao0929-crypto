@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-08（10:00）**
-> Top 1 `mattpocock/skills` **317,758 ★**（+997）· 今日绝对增量第一 `elephant-goldfish` **+858**（十一日 **+190.4%**）
-> 新挑战者 `pbakaus/impeccable` 105,573（+740）· 飙升榜 6 个仓库零增长（疑周日效应）· 连续十一日无断档
+> **最新一期 · 2026-11-09（10:00）**
+> Top 1 `mattpocock/skills` **318,589 ★**（+831）· 今日第一 `elephant-goldfish` **+1,240**（+8.88%，十二日 **+216.2%**，已发 v0.1.1）
+> 🟢 周日效应验证通过：6 个零增长仓库周一全部转正 · `OpenMontage` 已改名 `OpenMontageInc/` · 连续十二日无断档
 <!-- LATEST:END -->
 
 ---
