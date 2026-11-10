@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-09（10:00）**
-> Top 1 `mattpocock/skills` **318,589 ★**（+831）· 今日第一 `elephant-goldfish` **+1,240**（+8.88%，十二日 **+216.2%**，已发 v0.1.1）
-> 🟢 周日效应验证通过：6 个零增长仓库周一全部转正 · `OpenMontage` 已改名 `OpenMontageInc/` · 连续十二日无断档
+> **最新一期 · 2026-11-10（10:00）**
+> Top 1 `mattpocock/skills` **319,789 ★**（+1,200）· 今日增量第一 `anthropics/skills` **+1,341**（仓库四天无提交，纯外部传播）
+> `ECC` 破 **30 万** · paperclip 与 taste-skill 只差 103 星 · ⚠️ 前排四个高增量仓库全部停更，星数已与维护度脱钩 · 连续十三日无断档
 <!-- LATEST:END -->
 
 ---
