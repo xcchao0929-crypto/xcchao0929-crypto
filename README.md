@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-10（10:00）**
-> Top 1 `mattpocock/skills` **319,789 ★**（+1,200）· 今日增量第一 `anthropics/skills` **+1,341**（仓库四天无提交，纯外部传播）
-> `ECC` 破 **30 万** · paperclip 与 taste-skill 只差 103 星 · ⚠️ 前排四个高增量仓库全部停更，星数已与维护度脱钩 · 连续十三日无断档
+> **最新一期 · 2026-11-11（10:00）**
+> Top 1 `mattpocock/skills` **320,987 ★**（+1,198）· ✅ 上期预测兑现：`taste-skill` 反超 `paperclip` 60 星
+> `anthropics/skills` 三天连涨 +884/+1,341/+1,331（仓库零提交，归因：10 月下旬捐赠 AAIF + agentskills.io 导流）· Top 10 连续五日零变动 · 连续十四日无断档
 <!-- LATEST:END -->
 
 ---
