@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-11（10:00）**
-> Top 1 `mattpocock/skills` **320,987 ★**（+1,198）· ✅ 上期预测兑现：`taste-skill` 反超 `paperclip` 60 星
-> `anthropics/skills` 三天连涨 +884/+1,341/+1,331（仓库零提交，归因：10 月下旬捐赠 AAIF + agentskills.io 导流）· Top 10 连续五日零变动 · 连续十四日无断档
+> **最新一期 · 2026-11-12（10:00）**
+> Top 1 `mattpocock/skills` **322,080 ★**（+1,093）· 📌 `kepano/obsidian-skills` 转入官方组织 → **`obsidianmd/obsidian-skills`**，昨日发 v1.2.0
+> 热度首次明显回落：Top 10 合计 5,672（**-14.5%**）· `anthropics/skills` 三日连涨终结（+793）· #10/#11 只差 264 星 · 连续十五日无断档
 <!-- LATEST:END -->
 
 ---
