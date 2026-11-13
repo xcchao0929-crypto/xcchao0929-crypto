@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-12（10:00）**
-> Top 1 `mattpocock/skills` **322,080 ★**（+1,093）· 📌 `kepano/obsidian-skills` 转入官方组织 → **`obsidianmd/obsidian-skills`**，昨日发 v1.2.0
-> 热度首次明显回落：Top 10 合计 5,672（**-14.5%**）· `anthropics/skills` 三日连涨终结（+793）· #10/#11 只差 264 星 · 连续十五日无断档
+> **最新一期 · 2026-11-13（10:00）**
+> Top 1 `mattpocock/skills` **323,042 ★**（+962）· 🆕 **Top 10 八天来首次换人**：`addyosmani` 进 #10、`claude-mem` 跌到 #11（**只差 111 星**）
+> 📌 `obsidianmd/obsidian-skills` 日增 **+129 → +325**（11-11 一小时内连发 1.1.0 与 1.2.0，官方接手后首份成绩单）· ✅ 上期预测兑现 · 连续十六日无断档
 <!-- LATEST:END -->
 
 ---
