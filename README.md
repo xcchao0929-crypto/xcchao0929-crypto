@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-22（10:10）**
-> Top 1 `mattpocock/skills` **329,807 ★**（+807）· 同口径 9 个 **4,500**（**-4.0%**，周日延续降温）· **预测 4/4 兑现（首次四条全中）**
-> 🔥 头条在榜外：Trending 通道今日恢复，一口气逮到两个漏网仓库——**`cathrynlavery/diagram-design` 69,849 ★**（MIT，图表设计插件，A~G 七组查询全漏）与 **`elementalsouls/Claude-BugHunter` 16,222 ★（今日 +1,803，Trending 第一）** · 📐 口径收获：Trending 的 `stars today` 与自算 24h 增量误差 **<1%**，可当独立校验器 · 连续二十五日无断档
+> **最新一期 · 2026-11-23（10:01）**
+> Top 1 `mattpocock/skills` **330,543 ★**（+732）· Top10 合计 **4,090**（**-10.5%**，连续两日降温）· **预测 3/4**
+> 🔍 今天两件承诺都兑现：取数改 **GraphQL 批量，60 分钟 → 40 秒**；新增查询 H（`plugin in:description`）首日就命中 **`anthropics/claude-plugins-official` 47,990 ★**（Anthropic 官方插件目录，57 个 SKILL.md / 43 插件，**A~G 七组查询连续 26 天全漏**）与 `anthropics/knowledge-work-plugins` 36,698 ★ · ⚠️ 唯一落空：`diagram-design` +489 低于预测 800——第二次把「今天才发现」当成「新仓库」· 连续二十六日无断档
 <!-- LATEST:END -->
 
 ---
