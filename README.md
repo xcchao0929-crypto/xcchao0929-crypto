@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-23（10:01）**
-> Top 1 `mattpocock/skills` **330,543 ★**（+732）· Top10 合计 **4,090**（**-10.5%**，连续两日降温）· **预测 3/4**
-> 🔍 今天两件承诺都兑现：取数改 **GraphQL 批量，60 分钟 → 40 秒**；新增查询 H（`plugin in:description`）首日就命中 **`anthropics/claude-plugins-official` 47,990 ★**（Anthropic 官方插件目录，57 个 SKILL.md / 43 插件，**A~G 七组查询连续 26 天全漏**）与 `anthropics/knowledge-work-plugins` 36,698 ★ · ⚠️ 唯一落空：`diagram-design` +489 低于预测 800——第二次把「今天才发现」当成「新仓库」· 连续二十六日无断档
+> **最新一期 · 2026-11-24（10:02）**
+> Top 1 `mattpocock/skills` **331,431 ★**（+889）· Top10 合计 **4,905**（**+19.9%**，一周最大反弹）· **预测 4/5**
+> 🔥 头条是 `elementalsouls/Claude-BugHunter`：**+1,942（+10.84%）三日连爆**（1,803 → 1,688 → 1,942），今天一天四个 `feat` 提交（证据链固化 / 默认数据隔离 / 利用补全）——热度与开发量同时上升，不再只是曝光 · 🆕 小仓库爆发 `mjmirza/app-store-compliance` **+986（+24.49%）**：124 条 App 商店驳回模式 + 欧盟 AI 法案截止日期，带 agent skill · ❌ 唯一落空：我给 BugHunter 的区间上限（1,200）比它前两天的实际值都低 → 新规矩「连续 N 天高增，第 N+1 天下界不低于前 N 天最小值」· ⚠️ 运维：脚本编辑 bug 致首跑漏 8 个仓库，已修 + 加验收步骤 · 连续二十七日无断档
 <!-- LATEST:END -->
 
 ---
