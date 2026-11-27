@@ -9,9 +9,9 @@
 ### 每天一份 AI 插件 / Skill 观察
 
 <!-- LATEST:START -->
-> **最新一期 · 2026-11-26（10:00）**
-> Top 1 `mattpocock/skills` **332,929 ★**（+718）· Top10 合计 **4,597**（**-1.4%**）· 🎯 **预测 5/6**——而唯一落空的那条，正是我昨天刚立的规则
-> ❌ `Claude-BugHunter` 给 1,676~2,400，实际 **+1,564**，从下界下漏 112 星 → **规则能防「区间太窄」，不能预测「减速」**（五日曲线 1,803 / 1,688 / 1,942 / 1,676 / 1,564 早就在减速，我却用规则硬套）· 🎯 **Trending 通道四天来首次恢复**，交叉验证它仍是日榜 #1（1,652 stars today）→ 减速不是退潮；顺带修正 11-22 的「stars today 误差 <1%」：**趋势型仓库偏差可达 +40%**（UTC 自然日 vs 我的 10:00 窗口）· 🔥 `app-store-compliance` **+612（+10.38%）** 发 v2.5.2，三日高增递减（986/885/612）· 🏅 `anthropics/skills` 200,558（+555），**十日零提交**照样稳在 500 档 · 🆕 发现 `kaomei/stickman-video-director`（8,348 ★，脚本→火柴人视频，20+ 风格 + 配音字幕音效，MIT）· DSH 生态 `Ebony-Vinyl/dsh-our-free-model` **+1,055**（87,173 ★）· 连续二十九日无断档
+> **最新一期 · 2026-11-27（10:00）**
+> Top 1 `mattpocock/skills` **333,633 ★**（+704）· Top10 合计 **4,705**（**+2.3%**）· 🎯 **预测 5/6**
+> 🏅 **`archify` 破 10 万**（100,598 ★，Apache-2.0）——架构图 skill，它的文档里已经写 DSH 版本说明；10 万俱乐部共 **17 家** · 🔥 `Claude-BugHunter` **+1,584 第四日连爆**，但今天机制换了：不是发功能，是**上 PyPI**（`ci(release): add PyPI Trusted-Publishing workflow`），安装门槛从 git clone 降到 `pip install` · 🔥 `app-store-compliance` 发 **v2.5.3** + `--tool kiro` 接入，+549（**+8.43%**），连续第四日高增 · ❌ 唯一落空：`obsidian-skills` 给 40~150 实际 **+266**——我把它当「平台期线性衰减」，漏了它**一夜连开 4 个新 host 安装入口**（Kiro / Muse / Antigravity / Hermes Marketplace）→ **发版 ≠ 唯一脉冲，铺分发入口比改功能更能拉星数**，已写进 METHOD · 🟢 `ffmpeg-skill` 一晚连发 v4.15.0 / v4.16.0，「发版驱动」在它身上恢复 · 🆕 `heygen-com/hyperframes` 90,902 ★（+707，HTML→MP4 成片层）· 连续三十日无断档
 <!-- LATEST:END -->
 
 ---
